@@ -1,0 +1,19 @@
+{
+	"author": "Yardstick",
+	"contributors": [
+		"Stephan van Stekelenburg",
+		"Michel van den Berg"
+	],
+	"name": "Yardstick",
+	"homepage": "http://yardstick.it",
+	"description": "Yardstick node.js Library",
+	"version": "1.0.0",
+	"main" : "./lib/yardstick",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/yardstick/yardstick.git"
+	},
+	"bugs" : {
+		"url" : "http://github.com/voodootikigod/postmark.js/issues" 
+	}
+}
