@@ -1,19 +1,27 @@
 {
 	"author": "Yardstick",
 	"contributors": [
-		"Stephan van Stekelenburg",
-		"Michel van den Berg"
+		{ 
+			"name" : "Stephan van Stekelenburg"
+			, "email" : "stephan@yardstick.it"
+			, "url" : "http://twitter.com/stephanvs"
+		},
+		{
+			"name": "Michel van den Berg",
+			"email": "michel@yardstick.it",
+			"url": "http://twitter.com/promontis"
+		}
 	],
-	"name": "Yardstick",
+	"name": "yardstick-client",
 	"homepage": "http://yardstick.it",
 	"description": "Yardstick node.js Library",
-	"version": "1.0.0",
+	"version": "0.0.2",
 	"main" : "./lib/yardstick",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/yardstick/yardstick.git"
+		"url": "git://github.com/YardstickIt/yardstick-nodejs.git"
 	},
 	"bugs" : {
-		"url" : "http://github.com/voodootikigod/postmark.js/issues" 
+		"url" : "https://github.com/YardstickIt/yardstick-nodejs/issues" 
 	}
 }
